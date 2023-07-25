@@ -1,0 +1,10 @@
+* cl-rrt
+
+Common Lisp implementation of RRT (Rapidily exploring Random Tree), a fast probabilistic multidimentional path-plannning algorithm. Note: It will still work, but it is an old work. I think the implementation is not be very efficient because my lisp hacking has significantly improved since when I wrote this library.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/cl-rrt.git   |
+| commit  | 00c7ab2  |
+| systems | cl-rrt |
+|---------+-------------------------------------------|
+
